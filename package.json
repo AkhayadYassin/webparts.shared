@@ -1,0 +1,28 @@
+
+{
+  "name": "webparts-shared",
+  "version": "2.0.0",
+  "description": "Webparts shared module for Angular.",
+  "main": "bundles/webpoc.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "webparts",
+	"webpart",
+	"webparts-shared"
+  ],
+  "author": "yassin akh",
+  "license": "Mylicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youraccount/angular-amazing.git"
+  },
+  "homepage": "https://github.com/youraccount/angular-amazing",
+  "bugs": {
+    "url": "https://github.com/youraccount/angular-amazing/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": "^2.4.0 || ^4.0.0",
+    "rxjs": "^5.0.1"
+  }
+}
